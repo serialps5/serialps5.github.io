@@ -1,6 +1,7 @@
 ---
 title: 'Ultimate Ranking of Brandon Ingrams Most Shocking Injuries: Top 5 Must-See Moments!'
 date: 2024-08-14
+permalink:PLWn1UwZrNc3VtBnXqX2schNifet_pZmeC
 ---
 
 ## Ultimate Ranking of Brandon Ingrams Most Shocking Injuries: Top 5 Must-See Moments!
