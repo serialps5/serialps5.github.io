@@ -1,0 +1,29 @@
+# Top Menu
+topmenu:
+
+- title: Home
+  url: ""
+
+- title: About
+  url: "about/"
+
+- title: Privacy Policy
+  url: "privacy-policy/"
+- title: Terms of Service
+  url: "terms-of-service/"
+
+- title: Contact
+  url: "contact/"
+
+# Footer Menu
+footermenu:
+
+- title: Home
+  url: ""
+
+- title: Privacy Policy
+  url: "privacy-policy/"
+
+- title: Contact
+  url: "contact/"
+
