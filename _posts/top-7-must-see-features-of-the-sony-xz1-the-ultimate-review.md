@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Top 7 Must-See Features of the Sony XZ1: The Ultimate Review!"
-date: 2025-02-10 08:06:10
+date: 2025-02-9 08:06:10
 categories: Youtube
 ---
 
